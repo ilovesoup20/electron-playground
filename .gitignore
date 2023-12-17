@@ -135,7 +135,7 @@ dist
 **/.npmrc
 .tags*
 .vs/
-.vscode/
+# .vscode/
 *.log
 *.pyc
 *.sln
